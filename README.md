@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0002-add-two-numbers) |
 | [1025-divisor-game](https://github.com/rimi-singha/Leetcode/tree/master/1025-divisor-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/rimi-singha/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/rimi-singha/Leetcode/tree/master/1025-divisor-game) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/rimi-singha/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
