@@ -25,11 +25,9 @@ class Solution {
 
             curr = curr.next;
         }
-
         if (carry != 0) {
             curr.next = new ListNode(carry);
         }
-
         return dummy.next;
     }
 }
