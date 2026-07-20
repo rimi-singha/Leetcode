@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rimi-singha/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rimi-singha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rimi-singha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
 ## Stack
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rimi-singha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
