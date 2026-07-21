@@ -7,3 +7,5 @@ class Solution {
                 return arr;
     }
 }
+                   //TC=O(n);
+                   //SC=O(n)
