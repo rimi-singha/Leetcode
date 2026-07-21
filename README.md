@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rimi-singha/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rimi-singha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
+| [1920-build-array-from-permutation](https://github.com/rimi-singha/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/rimi-singha/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/rimi-singha/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
 |  |
 | ------- |
