@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rimi-singha/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimi-singha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/rimi-singha/Leetcode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rimi-singha/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rimi-singha/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -87,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
