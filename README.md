@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/rimi-singha/Leetcode/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/rimi-singha/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/rimi-singha/Leetcode/tree/master/2235-add-two-integers) |
 ## Recursion
 |  |
 | ------- |
