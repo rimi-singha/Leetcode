@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rimi-singha/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rimi-singha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rimi-singha/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimi-singha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rimi-singha/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rimi-singha/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rimi-singha/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rimi-singha/Leetcode/tree/master/0283-move-zeroes) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rimi-singha/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rimi-singha/Leetcode/tree/master/0217-contains-duplicate) |
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rimi-singha/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
