@@ -15,7 +15,11 @@ class Solution {
             i++;
             zero--;
         }
-        while (one-- > 0) nums[i++] = 1;
+        while (one > 0) {
+            nums[i] = 1;
+            i++;
+            one--;
+        }
         while (two-- > 0) nums[i++] = 2;
     }
 }
