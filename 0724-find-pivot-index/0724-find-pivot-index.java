@@ -6,7 +6,7 @@
         for (int i = 0; i < nums.length; i++) {
             totalsum += nums[i];
         }
-        // Check every possible pivot
+        //   Check every possible pivot
         for (int i = 0; i < nums.length; i++) {
             int rightsum = totalsum - leftsum - nums[i];
             if (leftsum == rightsum) {
