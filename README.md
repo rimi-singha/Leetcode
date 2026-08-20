@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rimi-singha/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rimi-singha/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rimi-singha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimi-singha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rimi-singha/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rimi-singha/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/rimi-singha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimi-singha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rimi-singha/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimi-singha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,10 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rimi-singha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rimi-singha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/rimi-singha/Leetcode/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rimi-singha/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rimi-singha/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/rimi-singha/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rimi-singha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rimi-singha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rimi-singha/Leetcode/tree/master/0189-rotate-array) |
