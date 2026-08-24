@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rimi-singha/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rimi-singha/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rimi-singha/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rimi-singha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/rimi-singha/Leetcode/tree/master/1025-divisor-game) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rimi-singha/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1688-count-of-matches-in-tournament](https://github.com/rimi-singha/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/rimi-singha/Leetcode/tree/master/2235-add-two-integers) |
 ## Recursion
