@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rimi-singha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rimi-singha/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/rimi-singha/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/rimi-singha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimi-singha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/rimi-singha/Leetcode/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rimi-singha/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/rimi-singha/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/rimi-singha/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/rimi-singha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rimi-singha/Leetcode/tree/master/0127-word-ladder) |
 ## Greedy
 |  |
