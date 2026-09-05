@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rimi-singha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rimi-singha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rimi-singha/Leetcode/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/rimi-singha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rimi-singha/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rimi-singha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rimi-singha/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/rimi-singha/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/rimi-singha/Leetcode/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/rimi-singha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/rimi-singha/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimi-singha/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/rimi-singha/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/rimi-singha/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Quicksort
 |  |
 | ------- |
